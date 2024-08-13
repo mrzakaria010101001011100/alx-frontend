@@ -134,8 +134,13 @@ html{
     color: var(--section-title-color);
 }
 
-a {
-    text-decoration: none;
+a{
+  color: #161616;
+  text-decoration: none;
+}
+a:link {
+  color: var(--text-color);
+  text-decoration: none;
 }
 
 a:visited {
