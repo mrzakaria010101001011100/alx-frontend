@@ -1,0 +1,30 @@
+/* Other styles in you CSS file */
+html{
+    scroll-behavior: smooth;
+}
+
+/* DO HARD THINGS _ALX */
+
+
+body{
+    color: #161616;
+}
+/* add for all element color*/
+
+a{
+    color: #161616;
+}
+/* add cdisplat in classvisually-hidden */
+.visually-hidden{
+    display: none;
+}
+/* add color in class card-category */
+
+.card-category{
+    color: #D73953;
+}
+/* add color in class section-tagline */
+.section-tagline{
+    color: #D73953;
+}
+
